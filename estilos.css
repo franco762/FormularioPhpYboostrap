@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #fc00ff;
+    background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);
+    background: linear-gradient(to right, #00dbde, #fc00ff);
+    color: #fff;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    background: #fc00ff;
+    background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);
+    background: linear-gradient(to right, #00dbde, #fc00ff);
+    border: none;
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    color: #fff;
+    height: 40px;
+    font-size: 15px;
+    cursor: pointer;
+  }
